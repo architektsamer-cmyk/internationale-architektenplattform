@@ -12,11 +12,11 @@ Bedingung.
 - Zusammenarbeit mit zertifizierten Energieberatern
 
 ## 🏗️ Projektarten
+sobald ich die Berufshaftpflichtversicherung abgeschlossen habe. Daher gilt mein Angebot unter dieser
 - Klassisches Wohn- und Geschäftshaus
 - Smart-Ökohaus (Effizienzhaus-40)
 - Luxushotel im klassischen Stil
 - https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/5820992853944430135
-sobald ich die Berufshaftpflichtversicherung abgeschlossen habe. Daher gilt mein Angebot unter dieser
 https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/5660563849791435960
 https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6509702454045073887
 https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6782834142291795265
