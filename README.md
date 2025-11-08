@@ -27,3 +27,7 @@ https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/224462257122881
 https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/224462257122881847
 https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/224462257122881847
 https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/224462257122881847
+
+[LinkedIn الخاص بي](https://www.linkedin.com/in/samer-architekt)
+[Blogger](https://samerplanung.blogspot.com)
+
