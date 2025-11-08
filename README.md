@@ -27,8 +27,10 @@ https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/224462257122881
 https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/224462257122881847
 https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/224462257122881847
 https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/224462257122881847
+‏Architekt samer.2025 (@architektsamer.2023)
 
 [LinkedIn الخاص بي](https://www.linkedin.com/in/samer-architekt)
 [Blogger](https://samerplanung.blogspot.com)
 https://architekt-2026.blogspot.com/
+
 
