@@ -2,7 +2,21 @@
 
 Willkommen auf meiner internationalen Architektenplattform.  
 Ich bin Samer, ein erfahrener Architekt mit über 20 Jahren Berufserfahrung in Deutschland.  
-Mein Fokus liegt auf klassischen Gebäuden, nachhaltigen Smarthäusern und energieeffizientem Bauen.
+Mein Fokus liegt auf klassischen Gebäuden, nachhaltigen Smarthäusern und energieeffizientem Bauen. 
+über mich
+
+Ich bin Architekt und freue mich auf die Zusammenarbeit mit Ihnen. Mit der Arbeit kann ich beginnen, 
+
+sobald ich die Berufshaftpflichtversicherung abgeschlossen habe. Daher gilt mein Angebot unter dieser 
+https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6509702454045073887
+
+
+
+
+
+
+
+Bedingung.
 
 ## 🌍 Tätigkeitsbereiche
 - Kiel, Hamburg, Berlin
