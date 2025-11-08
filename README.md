@@ -1,37 +1,79 @@
-# Architekt Samer 
-Willkommen auf meiner internationalen Architektenplattform.  
-Ich bin Samer, ein erfahrener Architekt mit über 20 Jahren Berufserfahrung in Deutschland.  
-Mein Fokus liegt auf klassischen Gebäuden, nachhaltigen Smarthäusern und energieeffizientem Bauen. 
-über mich
-Ich bin Architekt und freue mich auf die Zusammenarbeit mit Ihnen. Mit der Arbeit kann ich beginnen, 
-Bedingung.
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Internationale Architektenplattform – Architekt Samer</title>
+  <style>
+    body { font-family: Arial; background: #f4f4f4; padding: 20px; direction: ltr; }
+    h1 { text-align: center; color: #2c3e50; }
+    h2 { color: #27ae60; border-bottom: 2px solid #ccc; padding-bottom: 5px; }
+    .section { margin-bottom: 40px; }
+    .card { background: white; padding: 15px; margin: 10px 0; border-radius: 8px; box-shadow: 0 0 5px #ccc; }
+    .card h3 { margin: 0; color: #2980b9; }
+    .card p { margin: 5px 0; }
+    .intro { background: #fff; padding: 20px; margin-bottom: 30px; border-radius: 8px; box-shadow: 0 0 5px #ccc; }
+    .footer { text-align: center; margin-top: 30px; font-size: 14px; color: #888; }
+    a { color: #2980b9; text-decoration: none; }
+  </style>
+</head>
+<body>
 
-## 🌍 Tätigkeitsbereiche
-- Kiel, Hamburg, Berlin
-- Projekte mit Autodesk Revit
-- Zusammenarbeit mit zertifizierten Energieberatern
+  <h1>Architekt Samer – Internationale Architektenplattform</h1>
 
-## 🏗️ Projektarten
-sobald ich die Berufshaftpflichtversicherung abgeschlossen habe. Daher gilt mein Angebot unter dieser
-- Klassisches Wohn- und Geschäftshaus
-- Smart-Ökohaus (Effizienzhaus-40)
-- Luxushotel im klassischen Stil
-- https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/5820992853944430135
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/5660563849791435960
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6509702454045073887
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6782834142291795265
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/7474946173327649305
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/5660563849791435960
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6782834142291795265
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/8002398902592879311
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/2013100396754931997
+  <div class="intro">
+    <p>
+      Willkommen auf meiner internationalen Architektenplattform.  
+      Ich bin <strong>Samer</strong>, ein erfahrener Architekt mit über 20 Jahren Berufserfahrung in Deutschland.  
+      Mein Fokus liegt auf klassischen Gebäuden, nachhaltigen Smarthäusern und energieeffizientem Bauen.
+    </p>
+    <p>
+      Ich bin Architekt und freue mich auf die Zusammenarbeit mit Ihnen.  
+      Mit der Arbeit kann ich beginnen, sobald die Berufshaftpflichtversicherung abgeschlossen ist.  
+      Daher gilt mein Angebot unter dieser Voraussetzung.
+    </p>
+  </div>
 
-## 📬 Kontakt & Ablauf
-1. Kunde wählt das Design
-2. Erste Kontaktaufnahme per E-Mail
-3. Telefonisches Gespräch zur Projektbesprechung
-4. Projektstart nach Versicherungsfreigabe
+  <div class="section">
+    <h2>🌍 Tätigkeitsbereiche</h2>
+    <div class="card">
+      <p>📍 Kiel, Hamburg, Berlin</p>
+      <p>🛠️ Projekte mit Autodesk Revit</p>
+      <p>🤝 Zusammenarbeit mit zertifizierten Energieberatern</p>
+    </div>
+  </div>
 
-👉 Für eine kostenlose Erstberatung schreiben Sie mir direkt per E-Mail.
-planung.2025.ar@gmail.com
-# internationale-architektenplattform
+  <div class="section">
+    <h2>🏗️ Projektarten</h2>
+    <div class="card">
+      <h3>Klassisches Wohn- und Geschäftshaus</h3>
+      <p>Traditionelles Design mit moderner Funktionalität.</p>
+    </div>
+    <div class="card">
+      <h3>Smart-Ökohaus (Effizienzhaus-40)</h3>
+      <p>Nachhaltiges, intelligentes Wohnen mit höchster Energieeffizienz.</p>
+    </div>
+    <div class="card">
+      <h3>Luxushotel im klassischen Stil</h3>
+      <p>Exklusive Architektur für gehobene Hotelprojekte.</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>📬 Kontakt & Ablauf</h2>
+    <div class="card">
+      <p>✅ Kunde wählt das Design</p>
+      <p>📧 Erste Kontaktaufnahme per E-Mail</p>
+      <p>📞 Telefonisches Gespräch zur Projektbesprechung</p>
+      <p>🚀 Projektstart nach Versicherungsfreigabe</p>
+      <p>👉 Für eine kostenlose Erstberatung schreiben Sie mir direkt:  
+        <a href="mailto:planung.2025.ar@gmail.com">planung.2025.ar@gmail.com</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="footer">
+    Internationale Architektenplattform – Ihre digitale Schnittstelle für Architektur und nachhaltiges Bauen.
+  </div>
+
+</body>
+</html>
