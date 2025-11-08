@@ -1,5 +1,4 @@
-# Architekt Samer – Effizienzhaus-40 & Klassisches Design
-
+# Architekt Samer 
 Willkommen auf meiner internationalen Architektenplattform.  
 Ich bin Samer, ein erfahrener Architekt mit über 20 Jahren Berufserfahrung in Deutschland.  
 Mein Fokus liegt auf klassischen Gebäuden, nachhaltigen Smarthäusern und energieeffizientem Bauen. 
