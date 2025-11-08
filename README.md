@@ -6,15 +6,7 @@ Mein Fokus liegt auf klassischen Gebäuden, nachhaltigen Smarthäusern und energ
 über mich
 https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/5660563849791435960
 Ich bin Architekt und freue mich auf die Zusammenarbeit mit Ihnen. Mit der Arbeit kann ich beginnen, 
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/5820992853944430135
-sobald ich die Berufshaftpflichtversicherung abgeschlossen habe. Daher gilt mein Angebot unter dieser 
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6509702454045073887
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6782834142291795265
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/7474946173327649305
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/5660563849791435960
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6782834142291795265
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/8002398902592879311
-https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/2013100396754931997
+
 
 Bedingung.
 
@@ -27,6 +19,15 @@ Bedingung.
 - Klassisches Wohn- und Geschäftshaus
 - Smart-Ökohaus (Effizienzhaus-40)
 - Luxushotel im klassischen Stil
+- https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/5820992853944430135
+sobald ich die Berufshaftpflichtversicherung abgeschlossen habe. Daher gilt mein Angebot unter dieser 
+https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6509702454045073887
+https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6782834142291795265
+https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/7474946173327649305
+https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/5660563849791435960
+https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/6782834142291795265
+https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/8002398902592879311
+https://draft.blogger.com/u/1/blog/post/edit/4965673694295235597/2013100396754931997
 
 ## 📬 Kontakt & Ablauf
 1. Kunde wählt das Design
