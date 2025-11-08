@@ -1,5 +1,5 @@
 
-Architekt in Kiel
+Architekt Samer Abbbas in Kiel
 
 Ja, ich bin ein zertifizierter Architekt in Kiel, Deutschland, und habe über 20 Jahre Erfahrung im .Bauwesen, einschließlich energieeffizienter Häuser (Effizienzhaus-40) 
 
