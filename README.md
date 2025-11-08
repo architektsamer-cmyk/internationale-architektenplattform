@@ -21,4 +21,5 @@ Mein Fokus liegt auf klassischen Gebäuden, nachhaltigen Smarthäusern und energ
 4. Projektstart nach Versicherungsfreigabe
 
 👉 Für eine kostenlose Erstberatung schreiben Sie mir direkt per E-Mail.
+planung.2025.ar@gmail.com
 # internationale-architektenplattform
