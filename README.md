@@ -1,4 +1,14 @@
+Meine Website ist jetzt online.
 
+Eine kompakte Übersicht über meine Angebote und eine einfache Möglichkeit zur Kontaktaufnahme. Wer neugierig ist oder an einer Zusammenarbeit interessiert – hier geht’s zur Seite:
+
+🔗 [Link zur Website]
+
+https://architektsamer.wixsite.com/my-site-1
+
+Ich freue mich über jeden Besuch und bin offen für Anregungen.
+
+#WebsiteOnline #BeruflichVernetzt #LinkedIn #DigitalePräsenz
 Architekt in Kiel
 
 Ja, ich bin ein zertifizierter Architekt in Kiel, Deutschland, und habe über 20 Jahre Erfahrung im .Bauwesen, einschließlich energieeffizienter Häuser (Effizienzhaus-40) 
